@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am beginnger with JS.
+I am looking forward to the challenge and continuous learning. 
+I used to be a Registered Nurse. 
